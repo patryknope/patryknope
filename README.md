@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 # About Me
-Hi there! I'm a 27-year-old computer science student currently in my third year of study. 
+I'm a 27-year-old computer science student currently in my third year of study. 
 
-I enjoy playing poker
+I enjoy playing poker - I have even won multiple local poker leagues in Wroclaw. It's my main hobby besides programming.
 
 # Skills
 `Java`
@@ -27,5 +27,4 @@ I enjoy playing poker
 B.S. in Computer Science (expected graduation: early 2024)
 
 # Experience
-
 Completed a 3-month internship as a full-stack developer at Iteratec GmbH, Wroclaw, Poland
