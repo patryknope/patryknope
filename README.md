@@ -27,4 +27,7 @@ I enjoy playing poker - I have even won multiple local poker leagues in Wroclaw.
 B.S. in Computer Science (expected graduation: early 2024)
 
 # Experience
+### Overall
+Around 4 years of experience in Java/Kotlin along with SQL and 2 years of JavaScript/TypeScript
+### Professional
 Completed a 3-month internship as a full-stack developer at Iteratec GmbH, Wroclaw, Poland
