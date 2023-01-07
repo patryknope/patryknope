@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**patryknope/patryknope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+Hi there! I'm a 27-year-old computer science student currently in my third year of study. 
 
-Here are some ideas to get you started:
+I enjoy playing poker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+`Java`
+`Kotlin`
+
+`JavaScript`
+`TypeScript`
+
+`SQL`
+`NoSQL`
+
+`Git`
+
+`Spring Boot`
+`Hibernate`
+`React`
+`React Native`
+
+
+# Education
+B.S. in Computer Science (expected graduation: early 2024)
+
+# Experience
+
+Completed a 3-month internship as a full-stack developer at Iteratec GmbH, Wroclaw, Poland
