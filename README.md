@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 # About Me
-I'm a 27-year-old computer science student currently in my third year of study. 
+Computer science student currently in my third year of study. 
 
-I enjoy playing poker - I have even won multiple local poker leagues in Wroclaw. It's my main hobby besides programming.
 
 # Skills
 `Java`
